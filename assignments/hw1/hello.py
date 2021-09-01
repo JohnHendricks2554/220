@@ -1,6 +1,6 @@
 """
 Name: John Hendricks
-chaos.py
+hello.py
 
 Problem: print "hello, world!" to the screen
 
