@@ -31,6 +31,7 @@ QUESTIONS TO BE ANSWERED FIRST:
 """
 import math
 
+
 def main():
     question = eval(input("Enter in the total amount of numbers you are averaging: "))
 
