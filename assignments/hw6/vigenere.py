@@ -7,6 +7,8 @@ Problem: Create a function that makes a graphics window where the user can input
 
 Authenticity: I certify that the code below is entirely mine and no one else's. I did look up some information online
               about the vigenere cipher itself, but I did not look up any code
+
+I for the life of my could not get this to work, and I am not entirely sure what I did wrong.
 """
 from graphics import *
 
